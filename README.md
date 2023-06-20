@@ -1,13 +1,10 @@
 Hello, my name is Devin. I'm an indie game developer from Germany.
-I have been using the unreal engine 4 now since 2014, sofar I have been working on many different titles.
+I have been using unreal engine 4 now since 2014, so far I have been working on many different titles.
 
 I mainly focus on Programming with C++ and BP.
 
 but I also got knowledge in 3D Modeling, Animation, material programming, and Level Design, 
 ## [Link to ArtStation](https://www.artstation.com/caboose413)
-
-## [Test](## [Test](https://github.com/Caboose413/Caboose413.github.io/blob/master/READMEold.md))
-
 
 One of the most important parts for me is to keeping track of performance and optimization.
 
